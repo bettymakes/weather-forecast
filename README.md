@@ -1,5 +1,7 @@
 # Weather forecast
 
+**⚠️ Don't forget to fork this repository before you start ⚠️**
+
 Before we start with JavaScript, let's first finish styling the site by centering the content in the middle of the page like this:
 ![Centered content in app](https://screenshot.click/2019-57-02-fukmn-3o0gj.jpg)
 
