@@ -10,6 +10,11 @@ body {
   border: 1rem solid #636e72;
 
   /* Align the items in the middle */
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
 }
 
 .heading {
